@@ -1,0 +1,10 @@
+com.ati.main
+com.ati.main.config
+com.ati.main.controllers
+com.ati.main.exceptions
+com.ati.main.model
+com.ati.main.payload
+com.ati.main.repositories
+com.ati.main.security
+com.ati.main.services
+com.ati.main.services.impl
